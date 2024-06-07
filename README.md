@@ -33,7 +33,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ### Conteúdos a ser estudado
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
 
-- [X] Flutter Curso 2022 #1 - Seja bem-vindo!
+- [ ] Flutter Curso 2022 #1 - Seja bem-vindo!
 - [ ] Flutter Curso 2022 #2 - Instalando o Flutter
 - [ ] Flutter Curso 2022 #3 - Instalando o VSCode
 - [ ] Flutter Curso 2022 #4 - Pastas de projeto
