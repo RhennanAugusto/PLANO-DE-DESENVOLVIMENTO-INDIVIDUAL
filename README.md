@@ -37,10 +37,10 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] Flutter Curso 2022 #2 - Instalando o Flutter
 - [X] Flutter Curso 2022 #3 - Instalando o VSCode
 - [X] Flutter Curso 2022 #4 - Pastas de projeto
-- [ ] Flutter Curso 2022 #5 - Conhecendo o Hot Reload
-- [ ] Flutter Curso 2022 #6 - Os botões de depuração do VSCode
-- [ ] Flutter Curso 2022 #7 - Criação de widgets
-- [ ] Flutter Curso 2022 #8 - O MaterialApp
+- [X] Flutter Curso 2022 #5 - Conhecendo o Hot Reload
+- [X] Flutter Curso 2022 #6 - Os botões de depuração do VSCode
+- [X] Flutter Curso 2022 #7 - Criação de widgets
+- [X] Flutter Curso 2022 #8 - O MaterialApp
 - [ ] Flutter Curso 2022 #9 - ErrorLens e lint
 - [ ] Flutter Curso 2022 #10 - O Scaffold
 - [ ] Flutter Curso 2022 #11 - Componentizando widgets
